@@ -1,5 +1,7 @@
 # PixelCNN & PixelRNN in TensorFlow
 
+next_batch : https://stackoverflow.com/questions/40994583/how-to-implement-tensorflows-next-batch-for-own-data
+
 TensorFlow implementation of [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759). This implementation contains:
 
 ![model](./assets/model.png)
